@@ -1,0 +1,2 @@
+TELEGRAM_BOT_TOKEN=ваш_токен_от_BotFather
+GROQ_API_KEY=gsk_ваш_ключ_groq
